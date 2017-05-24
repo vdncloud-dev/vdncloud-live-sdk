@@ -1,1 +1,1 @@
-# vdncloud-live-sdk  程序媛正在拼命搬砖中... 请耐心等待
+# vdncloud-live-sdk  程序猿正在拼命搬砖中... 请耐心等待，谢谢！！！
